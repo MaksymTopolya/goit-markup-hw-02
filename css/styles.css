@@ -31,7 +31,8 @@
  .nav-list :focus {
      color: #404bbf;
  }
-.address{
+
+.address1{
     font-style: normal;
 }
  .contacts {
@@ -111,12 +112,12 @@
      background-color: #FFFFFF;
  }
 
- .footer1 {
+ .footerr {
      background-color: #2e2f42;
  }
 
  .last-p {
      line-height: 1.5;
-     color: #F4F4FD;
+     color: #f4f4fd;
      letter-spacing: 0.02em;
  }
