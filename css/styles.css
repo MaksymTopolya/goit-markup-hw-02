@@ -19,7 +19,7 @@
      color: #2e2f42;
  }
 
- .nav-list {
+ .link-nav{
      font-weight: 500;
      font-size: 16px;
      line-height: 1.5;
@@ -31,7 +31,9 @@
  .nav-list :focus {
      color: #404bbf;
  }
-
+.address{
+    font-style: normal;
+}
  .contacts {
      font-size: 16px;
      line-height: 1.5;
@@ -41,7 +43,7 @@
 
  .contacts :hover,
  .contacts :focus {
-     color: #434455;
+     color: #404bbf;
  }
 
  /* section 1 */
@@ -57,7 +59,7 @@
      color: #ffffff;
  }
 
- .button1 {
+ .button132 {
      background-color: #4D5AE5;
      font-family: "Roboto", sans-serif;
      font-weight: 500;
@@ -68,12 +70,14 @@
      cursor: pointer;
  }
 
- .button1 :hover,
- .button1 :focus {
+ .button132 :hover,
+ .button132 :focus {
      background-color: #404BBF;
  }
 
  /* section 2 */
+ 
+ 
  .head {
      font-weight: 500;
      font-size: 20px;
