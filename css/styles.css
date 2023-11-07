@@ -42,8 +42,8 @@
      color: #434455;
  }
 
- .contacts :hover,
- .contacts :focus {
+ .contacts:hover,
+ .contacts:focus {
      color: #404bbf;
  }
 
@@ -71,8 +71,8 @@
      cursor: pointer;
  }
 
- .firstbutton :hover,
- .firstbutton :focus {
+ .firstbutton:hover,
+ .firstbutton:focus {
      background-color: #404BBF;
  }
 
