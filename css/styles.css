@@ -19,7 +19,7 @@
      color: #2e2f42;
  }
 
- .linknav{
+ .studio-list{
      font-weight: 500;
      font-size: 16px;
      line-height: 1.5;
@@ -27,12 +27,12 @@
      color: #2e2f42;
  }
 
- .linknav :hover,
- .linknav :focus {
+ .studio-list:hover,
+ .studio-list:focus {
      color: #404bbf;
  }
 
-.address{
+.contact-info{
     font-style: normal;
 }
  .contacts {
@@ -48,7 +48,7 @@
  }
 
  /* section 1 */
- .section-one {
+ .firstsection {
      background-color: #2e2f42;
  }
 
@@ -60,7 +60,7 @@
      color: #ffffff;
  }
 
- .buttonn {
+ .firstbutton {
      background-color: #4D5AE5;
      font-family: "Roboto", sans-serif;
      font-weight: 500;
@@ -71,8 +71,8 @@
      cursor: pointer;
  }
 
- .buttonn :hover,
- .buttonn :focus {
+ .firstbutton :hover,
+ .firstbutton :focus {
      background-color: #404BBF;
  }
 
@@ -120,4 +120,7 @@
      line-height: 1.5;
      color: #f4f4fd;
      letter-spacing: 0.02em;
+ }
+ .secondlogo{
+    color: #f4f4fd;
  }
